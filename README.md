@@ -15,8 +15,17 @@
 
 ---
 
+## Installation
 
-- Download script [Manually](https://github.com/im-hanzou/takerxyz-autoref/archive/refs/heads/main.zip) or use git:
-```bash
-git clone https://github.com/im-hanzou/takerxyz-autoref
-```
+1. **Clone Repository:**
+   ```bash
+   git clone https://github.com/Idevxd/onefootball.git
+   ```
+   ```bash
+   cd onefootball
+   ```
+
+2. **Instal Requirements:**
+   ```bash
+   pip install -r requirements.txt #or pip3 install -r requirements.txt
+   ```

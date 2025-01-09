@@ -47,7 +47,7 @@
    Edit proxy.txt File
    
    ```bash
-      nano .env proxy.txt
+   nano .env proxy.txt
    ```
 4. **Run Bot**
 

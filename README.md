@@ -41,11 +41,8 @@
    pip install -r requirements.txt #or pip3 install -r requirements.txt
    ```
 3. **Setup Proxy**
-    You will find the file proxy.txt in the project directory. Make sure proxy.txt contains data that matches the format expected by the script. Here is an example of a file format::
-
-  ```bash
-      #http://user:pass@ip:port
-  ```
+    You will find the file proxy.txt in the project directory. Make sure proxy.txt contains data that matches the format expected by the script.
+    Here is an example of a file Format : http://user:pass@ip:port
 
    Edit proxy.txt File
    

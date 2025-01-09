@@ -44,11 +44,11 @@
     You will find the file proxy.txt in the project directory. Make sure proxy.txt contains data that matches the format expected by the script. Here is an example of a file format::
 
   ```bash
-   http://user:pass@ip:port
+      #http://user:pass@ip:port
   ```
 
    Edit proxy.txt File
    
    ```bash
-   nano .env proxy.txt
+      nano .env proxy.txt
    ```

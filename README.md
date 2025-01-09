@@ -29,7 +29,7 @@
    ```bash
    source onefootball/bin/activate
    ```
-
+   Now Go to Directory
    ```bash
    cd onefootball
    ```

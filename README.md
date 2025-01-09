@@ -44,6 +44,7 @@
    pip install -r requirements.txt #or pip3 install -r requirements.txt
    ```
 3. **Setup Proxy**
+   
     You will find the file proxy.txt in the project directory. Make sure proxy.txt contains data that matches the format expected by the script.
     Here is an example of a file Format : http://user:pass@ip:port
 
@@ -52,7 +53,7 @@
    ```bash
    nano .env proxy.txt
    ```
-4. **Run Bot**
+5. **Run Bot**
 
    ```bash
    python onefootball.py #or python3 onefootball.py

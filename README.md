@@ -15,17 +15,6 @@
 
 ---
 
-## How to Get Started  
-1. Join the [Telegram Channel](https://t.me/sirkel_testnet) for more information.  
-2. Mint vouchers on the following links:  
-   - [Voucher 1](https://testnet.freee.xyz/manage/abst:0xcF4A0441867E156684CA25B3583D50eE1291e742)  
-   - [Voucher 2](https://testnet.freee.xyz/manage/1155/abst:0x581344f60AD6e00c0facF537EECd095da0Aa2D41)  
-
----
-
-
----
-
 
 - Download script [Manually](https://github.com/im-hanzou/takerxyz-autoref/archive/refs/heads/main.zip) or use git:
 ```bash

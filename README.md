@@ -22,14 +22,17 @@
    git clone https://github.com/Idevxd/onefootball.git
    ```
    - First Create Virtual Environment
+     
    ```bash
    python3 -m venv onefootball
    ```
    - Now Activate Virtual Environment
+     
    ```bash
    source onefootball/bin/activate
    ```
    - Now Go to Directory
+     
    ```bash
    cd onefootball
    ```

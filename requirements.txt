@@ -3,3 +3,4 @@ psutil
 requests
 web3
 colorama
+webdriver-manager

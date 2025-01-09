@@ -49,3 +49,8 @@
    ```bash
       nano .env proxy.txt
    ```
+4. **Run Bot**
+
+```bash
+   python onefootball.py #or python3 onefootball.py
+```

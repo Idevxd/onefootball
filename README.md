@@ -21,11 +21,22 @@
    ```bash
    git clone https://github.com/Idevxd/onefootball.git
    ```
+First Create Virtual Environment
+   ```bash
+   python3 -m venv onefootball
+   ```
+Now Activate Virtual Environment
+   ```bash
+   source onefootball/bin/activate
+   ```
+
    ```bash
    cd onefootball
    ```
 
 2. **Instal Requirements:**
+
+
    ```bash
    pip install -r requirements.txt #or pip3 install -r requirements.txt
    ```

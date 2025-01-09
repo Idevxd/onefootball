@@ -51,6 +51,6 @@
    ```
 4. **Run Bot**
 
-```bash
+   ```bash
    python onefootball.py #or python3 onefootball.py
-```
+   ```

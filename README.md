@@ -40,3 +40,17 @@
    ```bash
    pip install -r requirements.txt #or pip3 install -r requirements.txt
    ```
+3. **Setup Proxy**
+
+- manual_proxy.txt: You will find the file manual_proxy.txt in the project directory. Make sure manual_proxy.txt contains data that matches the format expected by the script. Here is an example of a file format::
+
+
+  ```bash
+    #ip:port #http or socks5 - change schemes in line 101
+    http://ip:port
+    socks4://ip:port
+    socks5://ip:port
+    http://ip:port@user:pass #idk its work or not, cuase i don't have authentic proxy
+    socks4://ip:port@user:pass #idk its work or not, cuase i don't have authentic proxy
+    socks5://ip:port@user:pass #idk its work or not, cuase i don't have authentic proxy#
+  ```

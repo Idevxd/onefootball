@@ -1,0 +1,5 @@
+pycryptodome
+psutil
+requests
+web3
+colorama

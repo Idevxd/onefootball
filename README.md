@@ -11,6 +11,8 @@
 - **Multi-Account Support**: Handle multiple accounts with ease.  
 - **Proxy Support**: Supports Proxy  
 
+
+
 ![Screenshot](https://i.ibb.co.com/7VkQQ6M/Cuplikan-layar-2024-12-23-192359.png)  
 
 ---

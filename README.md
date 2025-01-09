@@ -25,3 +25,9 @@
 
 
 ---
+
+
+- Download script [Manually](https://github.com/im-hanzou/takerxyz-autoref/archive/refs/heads/main.zip) or use git:
+```bash
+git clone https://github.com/im-hanzou/takerxyz-autoref
+```
